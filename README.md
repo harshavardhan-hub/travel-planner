@@ -93,9 +93,3 @@ firebase deploy
 - **Harsha Vardhan Yanakandla**
 - 💼 Full Stack Developer Intern Candidate
 
----
-
-## 📸 Screenshot
-
-![App Screenshot](./screenshot.png)
-
